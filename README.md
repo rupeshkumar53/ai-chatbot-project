@@ -7,12 +7,14 @@ The chatbot integrates with **Google Gemini AI API** to generate real-time respo
 
 ## 🚀 Features
 
-* 🤖 AI-based chatbot responses
-* ⚡ Fast REST API using Spring Boot
-* 💬 Real-time chat interface with React
-* 🧠 Gemini AI API integration
-* 🗄️ MySQL database integration
-* 🔒 Clean backend architecture
+* 🤖 AI-powered chatbot responses using Google Gemini API
+* 🔐 Secure authentication using JWT (Login / Signup)
+* 💬 Real-time chat interface built with React
+* 🧠 AI response generation using Gemini API
+* 🗄️ Chat history stored in MySQL database
+* ⚡ Fast REST APIs built with Spring Boot
+* 📂 Clean backend architecture (Controller → Service → Repository)
+* 🔄 Persistent conversation management
 
 ---
 
@@ -64,11 +66,10 @@ ai-chatbot-project
 
 ## 📌 Future Improvements
 
-* User authentication (JWT)
-* Chat history storage
-* Streaming AI responses
-* Docker deployment
-* Cloud hosting (AWS / Render)
+• Multi-user chat rooms
+• Docker container deployment
+• Cloud deployment (AWS / Render)
+• Chat search and filter
 
 ---
 
